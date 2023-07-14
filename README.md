@@ -1,8 +1,8 @@
 # DSA Coder and Java/Python Coder
 
-[![DSA Coder](https://img.shields.io/badge/DSA-Coder-blue)](https://www.linkedin.com/in/dsa-coder)
-[![Java Coder](https://img.shields.io/badge/Java-Coder-orange)](https://www.linkedin.com/in/java-coder)
-[![Python Coder](https://img.shields.io/badge/Python-Coder-green)](https://www.linkedin.com/in/python-coder)
+[![DSA Coder](https://img.shields.io/badge/DSA-Coder-blue)](https://www.linkedin.com/in/smit-paradva-696a63202)
+[![Java Coder](https://img.shields.io/badge/Java-Coder-orange)](https://www.linkedin.com/in/smit-paradva-696a63202)
+[![Python Coder](https://img.shields.io/badge/Python-Coder-green)](https://www.linkedin.com/in/smit-paradva-696a63202)
 
 ## **🚀 Welcome to My GitHub Universe! 🌌**
 
